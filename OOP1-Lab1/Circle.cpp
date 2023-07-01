@@ -1,6 +1,5 @@
 // Rustam Zokirov
 // C++ program to Calculate Area and Circumference of Circle
-//this program is use to solve the Circumference of Circle
 #include <iostream>
 
 using namespace std;
